@@ -4,22 +4,22 @@ Markdown 基本语法。
 
 ## Content
 
-- [1.Title](#1.title)
-- [2.Wrap](#2.wrap)
-- [3.Show](#3.show)
-- [4.Part Hightlight](#4.part-hightlight)
-- [5.Herf](#5.herf)
-- [6.List](#6.list)
-- [7.Table](#7.table)
-- [8.Indent](#8.indent)
-- [9.Insert Picture](#9.insert-picture)
-- [10.Insert Code](#10.insert-code)
-- [11.Text Format](#11.text-format)
-- [12.Back To Top](#12.back-to-top)
-- [13.Math Formula](#13.math-formula)
+- [Title](#title)
+- [Wrap](#wrap)
+- [Show](#show)
+- [Part Hightlight](#part-hightlight)
+- [Herf](#herf)
+- [List](#list)
+- [Table](#table)
+- [Indent](#indent)
+- [Insert Picture](#insert-picture)
+- [Insert Code](#insert-code)
+- [Text Format](#text-format)
+- [Back To Top](#back-to-top)
+- [Math Formula](#math-formula)
 
 
-## 1.Title
+## Title
 
 ```Markdown
 Big Title
@@ -49,7 +49,7 @@ Middle Title
 [回到顶部](#readme)
 
 
-## 2.Wrap
+## Wrap
 
 `like this <br> there is a wrap` 表示为：
 
@@ -57,13 +57,13 @@ like this <br> there is a wrap.
 
 [回到顶部](#readme)
 
-## 3.Show
+## Show
 
-### 3-1.Single Show
+### Single Show
 
         Hello erveryone,my name is ian.Thats is this?
 
-### 3-2.Mulity Show
+### Mulity Show
 
         hello
         hello
@@ -71,7 +71,7 @@ like this <br> there is a wrap.
 
 [回到顶部](#readme)
 
-## 4.Part Hightlight
+## Part Hightlight
 ```Markdown
 `like this`
 ```
@@ -79,7 +79,7 @@ like this <br> there is a wrap.
 
 [回到顶部](#readme)
 
-## 5.Herf
+## Herf
 
 [My Github](https://github.com/i0Ek3) <br>
 [My Github with hover](https://github.com/i0Ek3 "悬停显示") <br>
@@ -89,13 +89,13 @@ like this <br> there is a wrap.
 
 ## List
 
-### 6-1.Order List
+### Order List
 
 * can show you this
 * like this
 * pay attention there is space after '*'
 
-### 6-2.Disorder List
+### Disorder List
 
 * please add tab on other lines
     * like this
@@ -103,7 +103,7 @@ like this <br> there is a wrap.
 
 [回到顶部](#readme)
 
-## 7.Table
+## Table
 
 | # | Title | Link | Details |
 |---| ----- | ---- | ------- |
@@ -112,7 +112,7 @@ like this <br> there is a wrap.
 
 [回到顶部](#readme)
 
-## 8.Indent
+## Indent
 
 >like this
 >>like this
@@ -122,13 +122,13 @@ like this <br> there is a wrap.
 
 [回到顶部](#readme)
 
-## 9.Insert Picture
+## Insert Picture
 
 ![](https://avatars1.githubusercontent.com/u/9475646?s=96&v=4)
 
 [回到顶部](#readme)
 
-## 10.Insert Code
+## Insert Code
 
 ```C++
 #include <iostream> //C++
@@ -142,7 +142,7 @@ puclic static void main(String[] args) //Java
 [回到顶部](#readme)
 
 
-## 11.Text Format
+## Text Format
 
 *This is italic1*<br>
 _This is italic2_<br>
@@ -161,11 +161,11 @@ ___This is bold italic2___<br>
 
 [回到顶部](#readme)
 
-## 12.Back To Top
+## Back To Top
 
 [回到顶部](#readme)
 
-## 13.Math Formula
+## Math Formula
 
 > [ref1](https://juejin.im/post/5a6721bd518825733201c4a2), [ref2](http://jzqt.github.io/2015/06/30/Markdown中写数学公式/), [ref3](https://www.jianshu.com/p/e74eb43960a1)
 
