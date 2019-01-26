@@ -15,8 +15,9 @@ Markdown 基本语法。
 - [Insert Picture](#insert-picture)
 - [Insert Code](#insert-code)
 - [Text Format](#text-format)
-- [Back To Top](#back-to-top)
 - [Math Formula](#math-formula)
+- [Task List](#task-list)
+- [Back To Top](#back-to-top)
 
 
 ## Title
@@ -161,9 +162,6 @@ ___This is bold italic2___<br>
 
 [回到顶部](#readme)
 
-## Back To Top
-
-[回到顶部](#readme)
 
 ## Math Formula
 
@@ -186,5 +184,15 @@ Markdown 中的数学公式用`$数学公式$`和`$$数学公式$$`表示，前�
 积分的表示：`$\int_a^b f(x,y)dx$`表示为$\int_a^b f(x,y)dx$。
 
 其他运算符和希腊字母等请参考上述三个链接。
+
+[回到顶部](#readme)
+
+## Task List
+
+- [X] Plan 1
+- [] Plan 2
+- [] Plan 3
+
+## Back To Top
 
 [回到顶部](#readme)
